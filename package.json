@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vitepress": "^1.0.0-rc.35"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "@gouvfr/dsfr": "^1.11.0"
+  }
+}
