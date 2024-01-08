@@ -5,7 +5,7 @@ layout: home
 hero:
   name: FDR
   text: Les conventions qui font sensation
-  tagline: Les conventions ? C’est ma grande passion !
+  tagline: Les conventions ? C’est ma passion !
   actions:
     - theme: btn-front
       text: Front (Vue.js)
@@ -23,7 +23,5 @@ hero:
 features:
   - title: Un document unique pour les gouverner tous !
     details: Retrouvez au même endroit les conventions pour toutes les parties d’un projet.
-  - title: « Une aventure hors de l’espace et du temps »
-    details: Une oeuvre majeure, trois étoiles Télérama.
 ---
 

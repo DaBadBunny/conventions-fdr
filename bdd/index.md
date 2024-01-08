@@ -1,1 +1,1 @@
-# Conventions pour les bases de données
+# Guide, règles et conventions BDD

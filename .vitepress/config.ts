@@ -24,14 +24,12 @@ const transverseToc = [
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Retour vers l'accueil",
+  title: "Accueil",
   description: "Conventions, guides et règles de développement d'un projet informatique",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Qu’est-ce que la FDR ?', link: '/fdr-origin' },
-      { text: 'Sommes-nous dans une simulation ?', link: '/simulation' },
-      { text: 'Comment réinitialiser ses paramètres d’usinage ?', link: '/reset' }
+      { text: 'Comment contribuer à cette documentation ?', link: '/contribuer' },
     ],
 
     sidebar: {

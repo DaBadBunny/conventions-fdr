@@ -1,1 +1,1 @@
-# Conventions pour le back (Python)
+# Guide, règles et conventions Back

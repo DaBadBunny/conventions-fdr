@@ -1,1 +1,1 @@
-# Conventions pour le devops
+# Guide, règles et conventions DevOps
